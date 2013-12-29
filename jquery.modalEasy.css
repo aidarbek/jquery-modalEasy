@@ -1,0 +1,14 @@
+.modalEasy
+{
+	position:   fixed;/*Fixed position*/
+	
+	left:       20%;
+	right:      20%;
+	top:        10%;
+    bottom:     10%;
+
+    z-index:    100;  /*For the outermost layer :)*/
+    background: #fff;/*BackGroud color*/
+	border:     1px solid black;
+	padding:    50px;
+}
